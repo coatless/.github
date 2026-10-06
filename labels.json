@@ -1,0 +1,27 @@
+{
+  "labels": [
+    { "name": "t: bug", "color": "d73a4a", "description": "Something isn't working", "replaces": "bug" },
+    { "name": "t: chore", "color": "32BEB2", "description": "Upkeep task" },
+    { "name": "t: discussion", "color": "bfdadc", "description": "Open discussion on a topic" },
+    { "name": "t: documentation", "color": "0075ca", "description": "Improvements or additions to documentation", "replaces": "documentation" },
+    { "name": "t: enhancement", "color": "a2eeef", "description": "New feature or request", "replaces": "enhancement" },
+    { "name": "t: feature-request", "color": "fbca04", "description": "Request addition of a new feature" },
+    { "name": "t: question", "color": "d876e3", "description": "Question and Answer", "replaces": "question" },
+    { "name": "t: upstream", "color": "c5def5", "description": "Issue must be resolved elsewhere" },
+    { "name": "s: can't reproduce", "color": "fec1c1", "description": "Unable to reproduce the issue" },
+    { "name": "s: confirmed", "color": "215cea", "description": "Issue was confirmed to exist" },
+    { "name": "s: duplicate", "color": "cfd3d7", "description": "This issue or pull request already exists", "replaces": "duplicate" },
+    { "name": "s: needs information", "color": "fef2c0", "description": "Additional information is required." },
+    { "name": "s: question-answered", "color": "946C5A", "description": "Question has been answered." },
+    { "name": "s: question-needs-answer", "color": "C60468", "description": "Question has yet to be answered." },
+    { "name": "s: triage-needed", "color": "D93F0B", "description": "New bug report that needs to be classified." },
+    { "name": "s: won't do/fix", "color": "ffffff", "description": "This will not be worked on", "replaces": "wontfix" },
+    { "name": "p: critical", "color": "b60205", "description": "Address as soon as possible" },
+    { "name": "p: high", "color": "d93f0b", "description": "Address issue at next possible opening" },
+    { "name": "p: medium", "color": "fbca04", "description": "Address issue before the next release if possible" },
+    { "name": "p: low", "color": "0e8a16", "description": "Address issue when time permits" },
+    { "name": "good first issue", "color": "7057ff", "description": "Good for newcomers" },
+    { "name": "help wanted", "color": "008672", "description": "Extra attention is needed" }
+  ],
+  "retired": ["invalid"]
+}
